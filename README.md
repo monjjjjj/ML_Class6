@@ -9,6 +9,9 @@
 ### How to use BERT?
 1. BERT(self-supervised learning)算是un-supervised(在學填空題的階段)也算是semi-supervised(因用在下游任務時，需要有少量標註的資料)
    BERT PRE-TRAINED + FINE-TUNED -> semi-supervised
+## Fun Facts about BERT
+### How does BERT work?
+
 
    
 
