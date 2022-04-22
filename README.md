@@ -32,6 +32,15 @@
 5. Auto-Encoder到底好在哪裡？
 
    因為圖片的變化是有限的，所以在做Encoder的時候，可以用較低的維度去描述原本的那張圖片
+   
+## Auto-Encoders: Voice Conversion and More Applications
+1. Disentanglement:把多個糾纏在一起的東西解開來！
 
+   多種資訊全部糾纏在一個向量裡，我們不知道向量的哪些維代表著哪些資訊！
+
+   Feature Disentanglement: 我們有沒有可能做到encoder輸出一個100維的向量，我們就能知道前50維代表內容，後50維代表說話的人的特徵？
+
+   有了此技術之後，我們也許可以期待機器可以做到，給A,B的聲音，A,B不需要念同樣的句子、同樣的語言，機器就能把A的聲音轉變成B的聲音！
+2. Discrete Latent Representation
    
 
